@@ -1,0 +1,28 @@
+/* stylesheet */
+
+* {
+    background-color: aliceblue;
+    color: rgb(0, 90, 120);
+    font-family: sans-serif;
+    padding: 10px;
+    border: 2px;
+    margin: 10px;
+    /*width: 70%;*/
+}
+p {
+    padding-left: 5em;
+}
+
+img {
+    height: auto;
+    width: 500px
+}
+
+.lists {
+    padding: 3px;
+    border: 0px;
+    margin: 0px;
+
+    padding-left: 5em;
+}
+
